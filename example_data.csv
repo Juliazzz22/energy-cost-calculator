@@ -1,0 +1,4 @@
+month,electricity_consumption_mwh,gas_consumption_mwh,electricity_price_eur_per_mwh,gas_price_eur_per_mwh,co2_price_eur_per_ton
+January,150,200,120,40,100
+February,140,180,115,42,100
+March,160,210,130,39,100
